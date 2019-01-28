@@ -32,4 +32,4 @@ HotelRoom: This table has a composite key of HotelID and RoomNumber. This allows
 
 ## Database Schema
 
-![Lab40113](https://github.com/drewsview34/AsyncInn/blob/master/AsyncInn/Assets/databaseSchema.JPG)
+![Lab40113](https://github.com/drewsview34/AsyncInn/blob/master/Assets/databaseSchema.JPG)
