@@ -3,13 +3,17 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
     <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+    <UserSecretsId>0fb5d349-b20c-4366-af29-f7590fe1ce32</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="bootstrap" Version="4.2.1" />
+    <PackageReference Include="bootstrap.sass" Version="4.2.1" />
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
-    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="2.2.1" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.1" />
+    <PackageReference Include="NuGet.Core" Version="2.14.0" />
   </ItemGroup>
 
 </Project>
